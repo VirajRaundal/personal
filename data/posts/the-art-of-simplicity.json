@@ -1,0 +1,14 @@
+{
+    "slug": "the-art-of-simplicity",
+    "title": "The Art of Simplicity in Software Design",
+    "content": "<p>As developers, we often fall into the trap of over-engineering solutions. We reach for complex architectures, add layers of abstraction, and introduce dependencies before we need them. But some of the best software ever built is remarkably simple.</p><h2>Complexity is the Enemy</h2><p>Every line of code you write is a line of code you have to maintain. Every dependency you add is a potential point of failure. Every abstraction layer is another thing a new team member has to understand.</p><p>This doesn't mean we should write naive code. It means we should be intentional about the complexity we introduce.</p><h2>Rules I Try to Follow</h2><ol><li><strong>Start simple</strong> — Build the simplest thing that works. You can always add complexity later.</li><li><strong>YAGNI</strong> — You Aren't Gonna Need It. Don't build features or abstractions you don't need right now.</li><li><strong>Measure first</strong> — Don't optimize without data. Profile before you refactor.</li><li><strong>Delete code</strong> — The best code is the code that doesn't exist. Regularly prune dead code.</li></ol><h2>A Practical Example</h2><p>This very blog stores its posts as JSON files on disk. No database, no ORM, no migration scripts. Could it use a database? Sure. Does it need one? Not yet. When the time comes, the data layer is abstracted enough that swapping in a database would be straightforward.</p><p>That's the sweet spot: simple enough for now, flexible enough for later.</p>",
+    "excerpt": "As developers, we often fall into the trap of over-engineering solutions. But some of the best software ever built is remarkably simple.",
+    "tags": [
+        "engineering",
+        "design",
+        "philosophy"
+    ],
+    "readingTime": "5 min read",
+    "createdAt": "2026-02-17T00:00:00.000Z",
+    "updatedAt": "2026-02-17T00:00:00.000Z"
+}

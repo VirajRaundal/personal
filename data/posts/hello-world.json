@@ -1,0 +1,10 @@
+{
+  "slug": "hello-world",
+  "title": "Hello World — Welcome to My Blog",
+  "content": "<p>Welcome to my personal corner of the internet. This is where I'll be sharing my thoughts on technology, development, and everything in between.</p><h2>Why a Blog?</h2><p>In a world of social media hot takes and algorithmic feeds, having your own space to write long-form content feels more important than ever. A personal blog gives you ownership over your words, your ideas, and how they're presented.</p><h2>What to Expect</h2><p>I plan to write about:</p><ul><li>Web development and modern frameworks</li><li>Software engineering practices and patterns</li><li>Interesting projects I'm working on</li><li>Lessons learned from building things</li></ul><p>Stay tuned for more posts. If you'd like to connect, find me on any of the social links below.</p>",
+  "excerpt": "Welcome to my personal corner of the internet. This is where I'll be sharing my thoughts on technology, development, and everything in between.",
+  "tags": ["personal", "introduction"],
+  "readingTime": "2 min read",
+  "createdAt": "2026-02-15T10:00:00.000Z",
+  "updatedAt": "2026-02-15T10:00:00.000Z"
+}

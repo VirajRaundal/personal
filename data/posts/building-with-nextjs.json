@@ -1,0 +1,14 @@
+{
+    "slug": "building-with-nextjs",
+    "title": "Building Modern Websites with Next.js",
+    "content": "<p>Next.js has become one of the most popular frameworks for building React applications, and for good reason. It provides an incredible developer experience while delivering fast, production-ready websites.</p><h2>Why Next.js?</h2><p>There are several reasons I chose Next.js for this site:</p><ul><li><strong>App Router</strong> — The new App Router provides a powerful file-based routing system with layouts, loading states, and error handling built in.</li><li><strong>Server Components</strong> — React Server Components allow you to render on the server by default, sending less JavaScript to the client.</li><li><strong>API Routes</strong> — Build your backend alongside your frontend in the same project.</li><li><strong>Performance</strong> — Automatic code splitting, image optimization, and more.</li></ul><h2>The Stack</h2><p>This site is built with a surprisingly simple stack:</p><ul><li>Next.js 14 with App Router</li><li>Vanilla CSS with custom properties for theming</li><li>JSON files for blog post storage</li><li>TipTap for the rich text editor</li></ul><p>Sometimes the simplest approach is the best approach. No database servers to manage, no complex deployment pipelines — just code and content.</p><blockquote><p>The best technology is the one that gets out of your way and lets you focus on what matters: creating great content.</p></blockquote>",
+    "excerpt": "Next.js has become one of the most popular frameworks for building React applications, and for good reason. It provides an incredible developer experience while delivering fast, production-ready websites.",
+    "tags": [
+        "nextjs",
+        "webdev",
+        "react"
+    ],
+    "readingTime": "4 min read",
+    "createdAt": "2026-02-16T14:30:00.000Z",
+    "updatedAt": "2026-02-16T14:30:00.000Z"
+}
